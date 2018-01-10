@@ -1,0 +1,2 @@
+[!] Unable to add a source with url `https://msmobilecenter.visualstudio.com/SDK/_git/AppCenterSDK-Specs-Private.git` named `visualstudio-sdk-_git-appcentersdk-specs-private`.
+You can try adding it manually in `~/.cocoapods/repos` or via `pod repo add`.
